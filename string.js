@@ -24,3 +24,4 @@ const stringFreq=(str, letter)=>
         console.log(`${letter} has be found ${count} times`);
     }
 }
+///////////////////
