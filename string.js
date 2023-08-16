@@ -1,5 +1,4 @@
 //Author - Pratham
-//Author - Pratham
 /**
  * This function takes a string and a letter as a parameter
  * This function does'nt return anything, instead it prints the frequency of that letter in the passed string
@@ -25,4 +24,4 @@ const stringFreq=(str, letter)=>
         console.log(`${letter} has be found ${count} times`);
     }
 }
-
+///////////////////
