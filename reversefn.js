@@ -16,6 +16,5 @@ function reverseString(str) {
   const originalString = 'Hello, world!';
   const reversedString = reverseString(originalString);
   
-  console.log(`Original String: ${originalString}`);
-  console.log(`Reversed String: ${reversedString}`);
+  
   
